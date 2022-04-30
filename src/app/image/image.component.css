@@ -1,0 +1,7 @@
+.test-image {
+  text-align: center;
+}
+.test-image img{
+  width: 50%;
+  border-radius: 10px;
+}
